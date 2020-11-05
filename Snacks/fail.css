@@ -1,0 +1,18 @@
+main .featured {
+	display: flex;
+	flex-direction: column;
+	background-image: url(imgs/featured-image.jpg);	
+	background-repeat: no-repeat;
+  	background-size: auto;
+  	background-size: 100% 100%;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.bck{
+	background-image: url(../imgs/wood.jpg);	
+	background-repeat: no-repeat;
+  	background-size: auto;
+  	background-size: 100% 100%;
+}
